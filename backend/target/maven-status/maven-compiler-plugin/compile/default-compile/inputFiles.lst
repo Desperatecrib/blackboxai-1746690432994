@@ -1,0 +1,13 @@
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/repository/AppointmentRepository.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/service/AppointmentService.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/SacylConectaApplication.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/controller/AppointmentController.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/repository/PatientNoteRepository.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/service/PatientNoteService.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/controller/UserController.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/service/UserService.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/model/User.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/repository/UserRepository.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/model/PatientNote.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/model/Appointment.java
+/project/sandbox/user-workspace/backend/src/main/java/com/sacylconecta/controller/PatientNoteController.java
