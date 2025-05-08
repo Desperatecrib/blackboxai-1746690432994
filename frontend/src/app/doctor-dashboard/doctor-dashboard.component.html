@@ -1,0 +1,11 @@
+<div class="max-w-4xl mx-auto p-6">
+  <h2 class="text-2xl font-bold mb-4">Appointments</h2>
+  <div *ngFor="let appointment of appointments" class="mb-4 p-4 border rounded shadow hover:shadow-lg transition">
+    <p><strong>Patient:</strong> {{ appointment.patient.username }}</p>
+    <p><strong>Time:</strong> {{ appointment.appointmentTime | date:'short' }}</p>
+    <p><strong>Status:</strong> {{ appointment.status }}</p>
+    <button (click)="moveUpAppointment(appointment.id)" class="mt-2 bg-red-600 text-white py-1 px-3 rounded hover:bg-red-700 transition">
+      Move Up Appointment
+    </button>
+  </div>
+</div>
